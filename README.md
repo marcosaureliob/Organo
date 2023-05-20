@@ -6,7 +6,7 @@ Criação de projeto de organização de tripulações de one piece, que permite
 Criação de todo o código, elaboração do projeto analisando mídia fidelidade para criação dos templates, desenvolvedor front-end.
 
 ## Contribuições
-Não só realizei a programação do template como elaborei o código para ficar de acordo com minhas experiências na área do usuário, criando também um nome ficticio para o banco de acordo com minha personalidade.
+Realizei a programação do template como elaborei o código para ficar de acordo com minhas experiências na área do usuário.
 
 
 ## Tecnologias utilizadas no projeto
