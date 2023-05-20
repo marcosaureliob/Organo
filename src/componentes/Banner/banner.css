@@ -1,7 +1,9 @@
 .cabecalho {
     background-color: #6278F7;
     text-align: center;
+    heigth: 100px;
 }
 .cabecalho img {
     max-width: 100%;
+    
 }
